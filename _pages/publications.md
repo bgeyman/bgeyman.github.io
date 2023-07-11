@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journal Articles
 
-[*Submitted*] **Geyman, B.M.**, C.P. Thackray, D.J. Jacob, and E.M. Sunderland. (2023). “Impacts of Volcanic Emissions on the Global Biogeochemical Mercury Cycle: Insights from Satellite Observations and Chemical Transport Modeling.”
+[*under review*] **Geyman, B.M.**, C.P. Thackray, D.J. Jacob, and E.M. Sunderland. (2023). “Impacts of Volcanic Emissions on the Global Biogeochemical Mercury Cycle: Insights from Satellite Observations and Chemical Transport Modeling.”
 
 [4] Dai, M.Q., **B.M. Geyman**, X.C. Hu, C.P. Thackray, and E.M. Sunderland. (2023). “Sociodemographic Disparities in Mercury Exposure from U.S. Coal-Fired Power Plants.” *Environmental Science and Technology Letters*, 10(7), 589–595.  <a href="https://doi.org/10.1021/acs.estlett.3c00216">https://doi.org/10.1021/acs.estlett.3c00216</a>. \[**[PDF](https://pubs.acs.org/doi/pdf/10.1021/acs.estlett.3c00216)**\] \[**[Summary](https://seas.harvard.edu/news/2023/06/despite-major-progress-nationally-two-mercury-emissions-hotspots-remain)**\]
 
