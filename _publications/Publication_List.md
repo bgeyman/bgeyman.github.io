@@ -2,7 +2,7 @@
 title: "Publications"
 collection: publications
 ---
-[_Accepted_] **Geyman, B.M.**, C.P. Thackray, D.J. Jacob, and E.M. Sunderland. (2023). “Impacts of Volcanic Emissions on the Global Biogeochemical Mercury Cycle: Insights from Satellite Observations and Chemical Transport Modeling.” *Geophysical Research Letters*, 50, e2023GRL104667. <a href="https://doi.org/10.1029/2023GL104667">https://doi.org/10.1029/2023GL104667</a>.
+[5] **Geyman, B.M.**, C.P. Thackray, D.J. Jacob, and E.M. Sunderland. (2023). “Impacts of Volcanic Emissions on the Global Biogeochemical Mercury Cycle: Insights from Satellite Observations and Chemical Transport Modeling.” *Geophysical Research Letters*, 50, e2023GRL104667. <a href="https://doi.org/10.1029/2023GL104667">https://doi.org/10.1029/2023GL104667</a>. \[**[PDF](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2023GL104667?download=true)**\] \[**[Summary](https://seas.harvard.edu/news/2023/11/human-emissions-increased-mercury-atmosphere-sevenfold)**\]
 
 [4] Dai, M.Q., **B.M. Geyman**, X.C. Hu, C.P. Thackray, and E.M. Sunderland. (2023). “Sociodemographic Disparities in Mercury Exposure from U.S. Coal-Fired Power Plants.” *Environmental Science and Technology Letters*. <a href="https://doi.org/10.1021/acs.estlett.3c00216">https://doi.org/10.1021/acs.estlett.3c00216</a>.
 
