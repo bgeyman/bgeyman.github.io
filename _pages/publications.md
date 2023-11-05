@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Submitted or Under Review
+
+[1] **Geyman, B.M.**, D.G. Streets, C.P. Thackray, C.L. Olson, K. Schaefer, and E.M. Sunderland. "Projecting Global Mercury Emissions and Deposition Under the Shared Socioeconomic Pathways." _Earth and Space Science Open Archive._
+
 ## Journal Articles
 
 [5] **Geyman, B.M.**, C.P. Thackray, D.J. Jacob, and E.M. Sunderland. (2023). “Impacts of Volcanic Emissions on the Global Biogeochemical Mercury Cycle: Insights from Satellite Observations and Chemical Transport Modeling.” *Geophysical Research Letters*, 50, e2023GRL104667. <a href="https://doi.org/10.1029/2023GL104667">https://doi.org/10.1029/2023GL104667</a>. \[**[PDF](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2023GL104667?download=true)**\] \[**[Summary](https://seas.harvard.edu/news/2023/11/human-emissions-increased-mercury-atmosphere-sevenfold)**\]
