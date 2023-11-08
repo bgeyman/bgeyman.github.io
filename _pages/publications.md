@@ -7,7 +7,8 @@ author_profile: true
 
 ## Submitted or Under Review
 
-[1] **Geyman, B.M.**, D.G. Streets, C.P. Thackray, C.L. Olson, K. Schaefer, and E.M. Sunderland. "Projecting Global Mercury Emissions and Deposition Under the Shared Socioeconomic Pathways." _Earth and Space Science Open Archive._
+[1] **Geyman, B.M.**, D.G. Streets, C.P. Thackray, C.L. Olson, K. Schaefer, and E.M. Sunderland. "Projecting Global Mercury Emissions and Deposition Under the Shared Socioeconomic Pathways." _Earth and Space Science Open Archive._ <a href="https://doi.org/10.22541/essoar.169945526.69817769/v1">https://doi.org/10.22541/essoar.169945526.69817769/v1</a>.
+
 
 ## Journal Articles
 
