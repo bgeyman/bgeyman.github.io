@@ -9,7 +9,7 @@ author_profile: true
 
 ## Journal Articles
 
-[6] **Geyman, B.M.**, D.G. Streets, C.P. Thackray, C.L. Olson, K. Schaefer, and E.M. Sunderland. (_Accepted_). "Projecting Global Mercury Emissions and Deposition Under the Shared Socioeconomic Pathways." _Earth's Future, 12,_ e2023EF004231. <a href="https://doi.org/10.1029/2023EF004231">https://doi.org/10.1029/2023EF004231</a>.
+[6] **Geyman, B.M.**, D.G. Streets, C.P. Thackray, C.L. Olson, K. Schaefer, and E.M. Sunderland. (_Accepted_). "Projecting Global Mercury Emissions and Deposition Under the Shared Socioeconomic Pathways." _Earth's Future, 12,_ e2023EF004231. <a href="https://doi.org/10.1029/2023EF004231">https://doi.org/10.1029/2023EF004231</a>. \[**[PDF](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2023GL104667?download=true)**\]
 
 [5] **Geyman, B.M.**, C.P. Thackray, D.J. Jacob, and E.M. Sunderland. (2023). “Impacts of Volcanic Emissions on the Global Biogeochemical Mercury Cycle: Insights from Satellite Observations and Chemical Transport Modeling.” *Geophysical Research Letters*, 50, e2023GRL104667. <a href="https://doi.org/10.1029/2023GL104667">https://doi.org/10.1029/2023GL104667</a>. \[**[PDF](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2023GL104667?download=true)**\] \[**[Summary](https://seas.harvard.edu/news/2023/11/human-emissions-increased-mercury-atmosphere-sevenfold)**\]
 
