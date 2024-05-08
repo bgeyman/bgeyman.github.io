@@ -7,6 +7,8 @@ author_profile: true
 
 ## Submitted or Under Review
 
+[1] Dastoor, A., et al. (36 co-authors including **B.M. Geyman**) (_submitted_) "The Multi-Compartment Hg Modeling and Analysis Project (MCHgMAP): Mercury modeling to support international environmental policy." _Geoscientific Model Development Discussions_.
+
 ## Journal Articles
 
 [6] **Geyman, B.M.**, D.G. Streets, C.P. Thackray, C.L. Olson, K. Schaefer, and E.M. Sunderland. (2024). "Projecting Global Mercury Emissions and Deposition Under the Shared Socioeconomic Pathways." _Earth's Future, 12,_ e2023EF004231. <a href="https://doi.org/10.1029/2023EF004231">https://doi.org/10.1029/2023EF004231</a>. \[**[PDF](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2023GL104667?download=true)**\]
