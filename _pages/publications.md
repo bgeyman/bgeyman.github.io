@@ -7,7 +7,8 @@ author_profile: true
 
 ## Submitted or Under Review
 
-[1] Dastoor, A., et al. (36 co-authors including **B.M. Geyman**) (_submitted_) "The Multi-Compartment Hg Modeling and Analysis Project (MCHgMAP): Mercury modeling to support international environmental policy." _Geoscientific Model Development Discussions_.
+[1] Dastoor, A., et al. (36 co-authors including **B.M. Geyman**) (_Under Review_) "The Multi-Compartment Hg Modeling and Analysis Project (MCHgMAP): Mercury modeling to support international environmental policy." _Geoscientific Model Development Discussions_. <a href="https://doi.org/10.5194/gmd-2024-65">https://doi.org/10.5194/gmd-2024-65</a>. \[**[PDF](https://gmd.copernicus.org/preprints/gmd-2024-65/gmd-2024-65.pdf)**\]
+
 
 ## Journal Articles
 
