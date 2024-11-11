@@ -13,7 +13,7 @@ author_profile: true
 
 ## Journal Articles
 
-[7] Zolkos, S., **Geyman, B.M.**, et al. (_Accepted_) "Substantial mercury releases and local deposition from permafrost peatland wildfires in southwestern Alaska." _Environmental Science & Technology_. https://doi.org/10.1021/acs.est.4c08765
+[7] Zolkos, S., **Geyman, B.M.**, et al. (2024) "Substantial mercury releases and local deposition from permafrost peatland wildfires in southwestern Alaska." _Environmental Science & Technology_. <a href="https://doi.org/10.1021/acs.est.4c08765">https://doi.org/10.1021/acs.est.4c08765</a>.
 
 [6] **Geyman, B.M.**, D.G. Streets, C.P. Thackray, C.L. Olson, K. Schaefer, and E.M. Sunderland. (2024). "Projecting Global Mercury Emissions and Deposition Under the Shared Socioeconomic Pathways." _Earth's Future, 12,_ e2023EF004231. <a href="https://doi.org/10.1029/2023EF004231">https://doi.org/10.1029/2023EF004231</a>. \[**[PDF](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2023GL104667?download=true)**\]
 
