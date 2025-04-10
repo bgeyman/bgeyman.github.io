@@ -7,11 +7,11 @@ author_profile: true
 
 ## Submitted or Under Review
 
-[1] **Geyman, B.M.**, et al. (_In Revision_) "Cumulative Impacts of Past and Future Anthropogenic Releases on the Global Mercury Cycle." _Environmental Science & Technology_
+[1] **Geyman, B.M.**, et al. (_Accepted_) "Cumulative Impacts of Past and Future Anthropogenic Releases on the Global Mercury Cycle." _Environmental Science & Technology_
 
 [2] Dastoor, A., et al. (36 co-authors including **B.M. Geyman**) (_Accepted_) "The Multi-Compartment Hg Modeling and Analysis Project (MCHgMAP): Mercury modeling to support international environmental policy." _Geoscientific Model Development_. <a href="https://doi.org/10.5194/gmd-2024-65">https://doi.org/10.5194/gmd-2024-65</a>. \[**[PDF](https://gmd.copernicus.org/preprints/gmd-2024-65/gmd-2024-65.pdf)**\]
 
-[3] Olson, C., Jane, S., Geyman, B.M., et al. (_Under Review_) "Soil Mercury Accumulation Delays Fish Recovery From Atmospheric Deposition Declines." _Environmental Science & Technology_
+[3] Olson, C., Jane, S., Geyman, B.M., et al. (_In Revision_) "Soil Mercury Accumulation Delays Fish Recovery From Atmospheric Deposition Declines." _Environmental Science & Technology_
 
 ## Journal Articles
 
