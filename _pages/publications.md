@@ -5,11 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Submitted or Under Review
-
-[1] Olson, C., Jane, S., Geyman, B.M., et al. (_In Revision_) "Soil Mercury Accumulation Delays Fish Recovery From Atmospheric Deposition Declines." _Environmental Science & Technology_ 
-
 ## Journal Articles
+
+[10] Olson, C., Jane, S., **Geyman, B.M.**, et al. (2025) "Soil Mercury Accumulation Delays Fish Recovery From Atmospheric Deposition Declines." _Environmental Science & Technology_ xx(xx), xxxx-xxxx. <a href="https://doi.org/10.1021/acs.est.5c00834">https://doi.org/10.1021/acs.est.5c00834</a>. 
 
 [9] **Geyman, B.M.**, D.G. Streets, C.I. Olson, C.P. Thackray, C.L. Olson, K. Schaefer, and E.M. Sunderland. (2025) "Cumulative Impacts of Past and Future Anthropogenic Releases on the Global Mercury Cycle." _Environmental Science & Technology_  59(17), 8578–8590. <a href="https://doi.org/10.1021/acs.est.4c13434">https://doi.org/10.1021/acs.est.4c13434</a>. \[**[PDF](https://pubs.acs.org/doi/epdf/10.1021/acs.est.4c13434?ref=article_openPDF)**\]
 
