@@ -30,3 +30,7 @@ author_profile: true
 ## White Papers and Technical Reports
 
 [1] Sunderland, E.M., Thackray, C.P., **Geyman, B.M.**, Dai, M., Hammit, J., Goho, S., Driscoll, C.T. (2022). "A Template for a State-of-the-Science Assessment of the Public Health Benefits associated with Mercury Emissions Reductions for Coal-fired Electricity Generating Units." *Harvard Chan C-Change*. <a href="https://www.hsph.harvard.edu/c-change/news/mercury-emissions-reductions">https://www.hsph.harvard.edu/c-change/news/mercury-emissions-reductions</a>.
+
+## Conference Proceedings
+
+[1] Kossakowski, J., **Geyman, B.M.**, Vu, K., Katchinoff, J., Popolizio, N., Sosa, E., Kotagama, O., & Planavsky, N. (2026). "CaCO<sub>3</sub> Densifies Activated Sludge to Improve Wet- and Cold-Season Solids Separation at Scale." *Proceedings of the Water Environment Federation. Residuals, Biosolids and Treatment Technology Conference 2026.* <a href="https://doi.org/10.2175/193864718825160255">https://doi.org/10.2175/193864718825160255</a>.
